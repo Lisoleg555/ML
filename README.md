@@ -6,6 +6,16 @@
 
 * [lesson1 part0 numpy](https://github.com/Lisoleg555/mlcourse.ai/blob/master/jupyter_russian/topic01_pandas_data_analysis/lesson1_part0_numpy.ipynb)
 
+Ссылки на дополнительные домашние работы
+
+* [Lucid sonic dreams 1](https://www.youtube.com/watch?v=SZM3-6zz-9o)
+
+* [Lucid sonic dreams 2](https://www.youtube.com/watch?v=2XFPG8Z1veU)
+
+* [Lucid sonic dreams 3](https://www.youtube.com/watch?v=94EmFx-O454)
+
+* [Deepfake](https://youtu.be/e2vIE4P96nM)
+
 ## Датасет: Wikibooks Dataset
 
 Этот датасет содержит набор данных всех Викиучебников на 12 языках (английском, французском,
